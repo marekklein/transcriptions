@@ -1,0 +1,24 @@
+name:Viri Galilaei;
+office-part:Offertorium;
+mode:1;
+book:Graduale Romanum, 1974, p. 237;
+transcriber:Benjamin Bloomfield;
+source:http://www.e-codices.unifr.ch/en/list/one/sbe/0121;
+nabc-lines:1;
+nabc-source:https://www.e-codices.unifr.ch/en/sbe/0121/249;
+ntranscriber:Marek Klein;
+%%
+(c4)Vi(ff|//bv|fvDC|cilsc2|df/f|pe``vi|/hgh|//po)ri(fgf.|//to-) <v>\greheightstar</v>(,) 
+Ga(f|/ta)li(ghg|//to)l<sp>'ae</sp>(hv_//fhg|/cl-cl-)i,(ixhig/ff/ded.|//////toS2sut1//ci//cl-) (;) 
+quid(f|bv) ad(f|vi)mi(fg|vi)rá(ge/fd|//clSlsc2cl-)mi(cd|/ta)ni(d.|/ta) (,) 
+a(de|peS)spi(c|/ta)ci(df|qlppt1)én(f/fd|vicllsc3|//f/fd|vicllsc3|/d/dgf/fde|//ds//clS/po~hdlst2)tes(c.|/ta) (;) 
+in(f|pe~) cæ(hgh/fh_//gh/FE/gd__/fv_//ef/DC/d|cl-cl-cl-tgdstsMtgSsu1cl-vicilsc2vivi)lum?(d.) (:)
+
+Hic(cd!fvfv|``qlhgppt2``vihg) Je(g|vi)sus,(fv_//egf/efd.|vipesu2/cl-) (,) 
+qui(c|/ta) as(d|pe)súm(f|vi)ptus(f|vi) est(fe|/cllsc3) a(cd|pe) vo(d!ewfd|//toS)bis(d.|/ta) (,) 
+in(c!df|sa~) cæ(f/fd|vi-cllsc3|/f/fd|vicllsc3|/d/dgf/fd/ec|//ds///clS```clhglscw2````clM)lum,(c.|pe~) (;) 
+sic(da//cd/fvED/efd|/cl-ql-hhppt2sut2qlhh!cl-hh) vé(dgf/fd|//toS2cl-)ni(edec|/clcllsc3)et,(c.|pe~) (,) 
+que(d|vi>)mád(cd~|pe~)mo(d|vi)dum(d|vi) vi(d|vi)dí(d|vi)stis(cd|vi) e(d!ewfd|//toS)um(d.|vi) (;) 
+a(c|/ta)scen(d|vi)dén(ixdh.//j/jh|////pe//tgShh|//gih/ig.|//to!cllsc2|//f!gh/j/jg,|satghh|fhgh_|peSpeS|//fh!jvGF/fdf/eg.///|cihhpp2lsc2//po//////tohhpp2|/hjh/jh|///////clhg|/hgh|po~)tem(f.|/ta) (;) 
+in(e!fg|sa~) cæ(gvED/fv_//efd|/ci-/vi-///toS2)lum,(dfd/dc.|//toS2/cl-) (:) 
+al(cd|pe>1)le(fgf___|//toS|/hv_|vi-|//gh/FD.|//toS2sut1|////cd/fef|//pohgpp2|/ge__|/cl-|,hg__|///////cl-|/efd//fvED/ed|//tg////ci///cl)lú(cd~|pe~)ia.(d.|vi) (::)
