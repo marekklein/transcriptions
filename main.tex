@@ -1,0 +1,47 @@
+%\documentclass[14pt]{extbook}
+%\documentclass[12pt, a5paper]{article}
+\documentclass[12pt,latin, a4paper]{article}
+%\documentclass[12pt, a4paper,landscape]{article}
+\usepackage{fullpage}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{luainputenc}
+\usepackage{libertine}
+\usepackage{gregoriotex}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage{amssymb}
+\usepackage[latin]{babel}
+\usepackage{newunicodechar}
+
+\pagestyle{empty}
+\usepackage[bottom=0.3in,top=0.6in]{geometry}
+\begin{document}
+
+\gresetlyriccentering{vowel}
+\grechangedim{afterinitialshift}{3.2mm}{scalable}
+\grechangedim{beforeinitialshift}{3.2mm}{scalable}
+\def\gretranslationformat#1{%
+\it \small #1\relax%
+}
+\newcounter{greboldon}
+\setcounter{greboldon}{0}
+\newcommand{\dobold}{\setcounter{greboldon}{1}}%
+\newcommand{\undobold}{\setcounter{greboldon}{0}}%
+
+\def\dualcomment#1#2{%
+  \setlength{\parindent}{0pt}%
+  \vbox{\textit{#1 \hfill #2}}%
+  \vspace{0.5em}%
+  \relax%
+}
+
+
+\grechangestaffsize{22}
+\gresetnabcfont{gregall}{14}
+\grechangestafflinethickness{10}
+\grechangedim{spaceabovelines}{11mm}{scalable}
+
+\fontsize{16}{16}\selectfont {\gregorioscore[a]{main.gabc}}%
+
+\end{document}
