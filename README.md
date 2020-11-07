@@ -1,5 +1,5 @@
 # transcriptions
-Hear you can find transcriptions of the Chants (mostly from Graduale Triplex) with St. Gallen neumatic notation.
+Here you can find transcriptions of the Chants (mostly from Graduale Triplex) with St. Gallen neumatic notation.
 
 For every PDF file there is a GABC file too, with NABC notation included.
 
