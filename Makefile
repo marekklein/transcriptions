@@ -1,11 +1,13 @@
+base := $(shell v='$(file)'; echo "$${v%.*}")
 all: a
 
 rename:
-	cp $(file).gabc main.gabc
+	
+	cp $(base).gabc main.gabc
 
 aproc:
 	lualatex --shell-escape main.tex
-	cp main.pdf $(file).pdf
+	cp main.pdf $(base).pdf
 delete:
 	rm *.log
 	rm *.aux

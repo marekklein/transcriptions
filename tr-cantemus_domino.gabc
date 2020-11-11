@@ -1,0 +1,30 @@
+name:Cantemus Domino;
+office-part:Canticum;
+mode:8;
+book:Graduale Romanum, 1961, p. 239D & The Liber Usualis, 1961, p. 776R;
+transcriber:Jacques Peron;
+ntranscriber:Marek Klein;
+nabc-lines:1;
+nabc-source:http://www.e-codices.unifr.ch/en/csg/0359/103;
+%%
+(c3) CAn(e|ta)té(e!/fgf|/ta-/to)mus *(e!/ffe.|/prppu1) (,) 
+Dó(ehhi|pepq)mi(f|vi)no:(ed!/effe.|po-1pr) (;) 
+glo(e|ta)ri(eh|pe)ó(h|vi)se(h|vi) e(gi!/jhhf|pe-clS-lsc2cl-)nim(hffe|cl!pi|/fe|/cl|/hhf|//tg|/heed.|clS-cl-) (;) 
+ho(d|ta)no(d|ta)ri(fh|pe)fi(gef|/po)cá(ed/ef|clpe)tus(e|ta) est:(e.|ta) (:)
+e(ef|pe)quum(e|ta) et(e|ta) a(e|ta)scen(ef/hgh|/pohhpp2)só(h.f!gwh|cl-ql)rem(hhhvGF|//ds-//ci-|gvFEfe..|//ci-/cl-) (;) 
+pro(e|ta)jé(eh|pe)cit(h|vi) in(h|vi) ma(gi/jhhf|pe-clS-cl-)re:(hffe|///cl!pi|/fe/hhf|////cl/tg|/heed.|clS-cl-) (:)
+ad(d|ta)jú(fh|peS)tor(gef|/po) et(ed/ef~|/clpe~) pro(e|ta)té(ef|pe)ctor(e|ta) fa(ef|pe)ctus(e|ta) est(e|ta) mi(ef|pe)hi(e.|ta) (,) 
+in(e|ta) sa(ef/hgh|/pohhpp2)lú(h.f!gwh|cl-``ql)tem.(hhhvGF|//ds-//ci-|gvFEfe..|//ci-/cl-) (::)
+
+<sp>V/</sp>. Hic(e!fwg!hv|``qippt1``orhi) De(gh|vs)us(h|ta) me(gh|vs)us,(h.|ta) (,) 
+et(h|ta) ho(h|ta)no(h|ta)rá(h|ta)bo(h|vi) e(h_iHEf_e|vi-ciSlsc2/cl-|/f!gw!hvGFghf|//ql-ppt1/to)um:(fe..|/toS3) (:)
+De(e|ta)us(eh|pe) pa(h|vi)tris(h|vi) me(gi/jhhf|pe-``clS-cl-)i,(hffe|//cl!pi|/fe/hhf|//cl//tg|/heed.|/clS-/cl-) (;) 
+et(d|ta) ex(fh|pq)al(gef|/po-1)tá(ed/ef|/po-1)bo(ef/hgh|/pohhpp2) e(h.f!gwh|cl-``ql)um.(hhhvGF|//ds-//ci-|gvFEfe..|//ci-/cl-) (::)
+
+<sp>V/</sp>. Dó(e!fwg!hv|``qippt1``orhi)mi(h|ta)nus(h.|ta) cón(h|ta)te(h|ta)rens(h|vi) bel(h_iHE|vicihilsc2|f_e/f!gw!hvGF|cl-ql-ppt1su2|ghf|//to>)la:(fe..|/cl-) (:)
+Dó(f_e/f!gwh|cl-qlppt1)mi(ef|peS)nus (e_d|/cl-) (,) 
+no(d.f!gwh!iv|``qlhhppt2vihk)men(h|ta) est(h|ta)  
+il(h|ta)li.(hghFE|/posu1sut1lsc2|ee/feede.|///ds///cl!pi//vi-)(,)(hhhivHGFfe|///tv-///vihgsuu1su2/pi|/fhGFEefd.|vi-vihhsu3lsc2/to-1)(,)(f!gw!hvGFgffe.|viql-hhsu2clS-cl-) (::)
+
+
+
