@@ -1,0 +1,26 @@
+name:Benedicite gentes;
+office-part:Offertorium;
+mode:2;
+book:Graduale Romanum, 1961, p. 272 & The Liber Usualis, 1961, p. 832;
+transcriber:Andrew Hinkley;
+ntranscriber:Marek Klein;
+nabc-source:https://www.e-codices.unifr.ch/en/sbe/0121/155/;
+nabc-source2:https://www.e-codices.unifr.ch/en/sbe/0121/227 (alleluia);
+nabc-lines:1;
+%%
+(f3) BE(c|ta)ne(c|ta)dí(e!fg|``vi-he/vihh/vihk)ci(e|vi)te(ce|peS) gen(ce/fef|//pohgpp2)tes(fe..|/cl-) *(,) 
+Dó(eg/ih|//sflsc3)mi(hhh|//ts)num(f|ta) De(f!hhhf|ta//dshh//cl)um(fe~|vi) no(ef/gfge|//sflsc3/clhilsc3)strum,(ce..|pq) (;) 
+et(f|vi) ob(e|talsc1)au(f|vi)dí(hh|/bv)te(f_g|pq) vo(e!hhh|ta//tshh)cem(h/ihh|ta/clhgvihg) lau(fe~|cl~)dis(hh|/bv) e(fgF~E~|//to>2lst3)jus:(fe..|/cl-) (:) 
+qui(f|ta) pó(hh|/bv)su(hji|//tohh)it(ijhh/fgf.|///tohh/orhh////to) (,) 
+á(f!hji|/ta///tohh)ni(h|ta)mam(hhh|//ts) me(fh|peS)am(hhh|//ts) ad(h/ihh|ta//po>) vi(f|ta)tam,(f!gwhf/ghg.|ql!cllsc2ppt1/tohh) (;) 
+et(f|ta) non(fe~|cl~) de(fh|peS)dit(h/ihh|vi-//pohi) com(f|ta)mo(fe|/cl)vé(fh|peS)ri(h/ihh|vi-//pohi) (,) 
+pe(f|vi)des(e!hhh|ta//tshh) me(f!gw!hvGFEf|ql!vsppt1su2/vi)os:(ef..|pq) (:) 
+be(e|talsc3)ne(f|vi)dí(hih|//to)ctus(hhh|//tshh) Dó(h/ihh|ta//pohh)mi(f|ta)nus,(fgf.___|//toS) (;) 
+qui(ef|pe) non(f/hih|vi-/tohi) a(hhh|//ts)mó(fge|//to)vit(ce|peS) (,) 
+de(f|vi)pre(f|vi)ca(e|ta)ti(f|vi)ó(hh|/bv)nem(fg|pe>) me(e!hhh|/ta//tshh)am,(g_ef.|/cl/vi) (;) 
+et(f!hhh|vi-//tshh) mi(h|vi)se(h|vi)ri(f|ta)cór(f!hhh|/ta//ts>hh)di(fe|/cl)am(efe___|//toS) su(ef!hv/jvIH|sccihilsc2)am(h.|ta) (,) 
+a(h|ta) me,(h_f/hhh/fgf.___[nv:\definecolor{gregoriocolor}{RGB}{180,57,179}]|/cl////ts-hh////toS) (:) 
+al(fg|pe>)le(e/hhhhiHE|/ta////ts-///toS2sut1|//f/hhh_f/hihi|/vi/ds//cl-//toS2vi-)lú(fgf___|//toS)ia.(f.|ta) (::)
+
+
+
