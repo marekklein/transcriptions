@@ -1,0 +1,35 @@
+name:Tecum principium;
+office-part:Graduale;
+mode:2;
+book:Graduale Romanum, 1961, p. 28 & The Liber Usualis, 1961, p. 393;
+transcriber:Andrew Hinkley;
+ntranscriber:Marek Klein;
+nabc-source:https://www.e-codices.unifr.ch/en/csg/0359/38/;
+nabc-source2:http://www.e-codices.unifr.ch/en/csg/0359/36;
+nabc-lines:1;
+%%
+(c3) TE{}(f|vi)cum(c|talsc6) prin(f|vilsm2lsc2)cí(f|vi-)pi(fgFEfef|/pesu2//po)um(f.|vi) *(,) 
+in(hh/ijIH|`bv-hd`vihjciShn) di(ig|/clS|hvFE|/ciS|<nlba>f/hh</nlba>|//tsM|/if|/cllsc2)e(f.|ta) (;) 
+vir(f!gwh|ql>ppt1)tú(hv.|vi|gih|//to-1|/ghf|//toS2)tis(gxfe|/////cl-|gvFE.|//ciS) (`) 
+tu(ed|/cl-|/fef|//po)ae:(//fd|/cl|/ef!hvhvFE|//vi-hhpp2```vihhsu2|f!gwh|`qlppt1|/ih|//clhg|h|or>|/fgf.|//tohg) (:) 
+in(f|vi-lst2) splen(e|talsc3)dó(hh|/bv-)ri(hji|//to)bus(ih|/cl-|hf.|/cl-) (,) 
+sanc(f|ta)tó(h.f|/cl-|!gwh|`ql|/i_f|///cl-|/ij|/pe)rum,(h_f|/cl-|hv.|vi-|ghFEf.|//pesu2/vi) (;) 
+ex(f|vi) ú(hfh|//po)te(hhh|/ts)ro(h.f!gwh!iv.|/cl-``qlvihk|hi/jhh|//sfsthk|/iih.|/pr) (:) 
+an(hhi~|vipe~hh)te(h|ta) lu(h|ta)cí(hg|/cl|/hi!jvHG|//vipp2su2|hhg|//tg)(,)(i_h|/cl-|ivHF|/ci)fe(f|ta)rum(fhFE|pesu2|fh|pe-|/hf|/cllsc3|hvhvGF|//bv-su2|he|/clS-|ed.|/cl-) (:) 
+gé(d!ef|sa-|hvGFg|//ci/vi)nu(ef|pe)i(hf|/cl|/h_i|pq) te.(ih|/cl|/ijIH|pehhsu2) (,) 
+(jh/jkIG|//clhh/pehjsu2|hvFE[nv:\definecolor{gregoriocolor}{RGB}{180,57,179}]|/ciS|//f!gwh!iv.h!ij|qlppt1/vi-hl````sahh)(,)(ijijHFgwhf.[nv:\definecolor{gregoriocolor}{RGB}{229,53,44}]|///tohg!ciGhg//qlhg!cl-hg) (::) 
+
+<sp>V/</sp>. Di(f|vi)xit(h|pe) Dó(hi|pe)mi(i|vi)nus(i|vi) (`) 
+Dó(i|vi)mi(i|vi)no(ij|pe) me(jvIHG|//vihhsut3|hvFE|//ciS) (,) (ge|/cl|/f/hh|//tsM|/ijij.|//tr-1) (,) (hj!kvIG|vihjpp2su2|hvFE|//ci|fgFEf.|pesu2/vi-) (,) (i!jwk_j|`vi/qlhj!cl-hj|kvJIj|//ci-hi/vihh)o:(ji..|/cl-hh) (:) 
+Se(i!jw!kvJI|qlhippt1sut2|jw!kvJI|ql-hksu2)de(i.|ta) (,) 
+a(i|ta) dex(i|ta)tris(ij|pe~hh) me(j_h|/cl-hh|jvIH|//ciShh|hf|pi|/hhfhv.|/pr-vi-|hhh_f|//ds-/pi) (,) (hi!jvIH|/vihipp2su2|jvIHif|//cihh/cl)is:(f.|ta) (:) 
+do(hh|/bv-)nec(h|vi) po(hji|//tohh)nam(ih|/cl-|hf.|/cl-) (,) 
+in(f|ta)i(fi|pe)mí(i_f!ij|/cl-pehh)cos(h_fhv.|/cl-vi-|ghFEf.|/pesu2/vi) (,) 
+tu(hf|/cl|/hhh|//ts)os(h.f|/cl-|!gwh!iv.|`ql/vi-hi|hi/jhh|//sfsthk|/iih.|/pr) (:) 
+sca(hh|/bv-)bél(hg/hi!jvHG|cl/vihhpp2su2|hhg|//tg) (,) (i_hivHF|/cl-/ci)lum(fhFEfh|pesu2/pe-|/hfhvhvGF|//cllsc3vi-`ci|he|/clS-|ed.|/cl-) (:) 
+pe(d!efhvGFg|sa-ci/vi)dum(e|ta) tu(f|vi)ó(hf|/cl|/h_i|pq)rum.(i_jHGhi..[nv:\definecolor{gregoriocolor}{RGB}{180,57,179}]|ta-/ci/pq-) (,) 
+
+(e!fh/hjIHGFgwhf.[nv:\definecolor{gregoriocolor}{RGB}{229,53,44}]|sa-pehisu1sut3/ql!cl) (::)
+
+Te(f|vi)cum.(c|talsc6) (::) 
+
