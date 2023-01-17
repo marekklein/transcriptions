@@ -1,0 +1,20 @@
+name:Benedictus qui venit;
+office-part:Offertorium;
+mode:8;
+book:Graduale Romanum, 1961, p. 260 & The Liber Usualis, 1961, p. 806;
+transcriber:Andrew Hinkley;
+ntranscriber:Marek Klein;
+nabc-lines:1;
+nabc-score:https://www.e-codices.unifr.ch/en/sbe/0121/224;
+%%
+(c4) BE(f|ta|gf|/cl|fe|/cl-)ne(cd|pe)dí(ff|/bv|!gwhgh|ql!po)ctus(hg__|/cl-) *(,) 
+qui(g|ta) ve(hj|peShh|jj|/bvhh|/k_j|/cl-hi)nit(j.|/tahh) (;) 
+in(j|ta) nó(jk/lk|//clhkpp2)mi(kjj|//pohi)ne(ghg___|//toS|//ikj|//tohi) (,) 
+Dó(j|tahh|ki|/clhj|/jh|/clhhlsm2)mi(gf|/cl)ni :(h!iwj_h|qlhh!cl-hhppt1lsm2|/ivHG|//ci-|/hg..|/cl-) (:) 
+be(f|talsc3)ne(g|vi)dí(gj|peShh)xi(j|vihh)mus(jj|/dshhlst3|jvHGh|//ciGhh/vihh) vo(fg|peS)bis(hjHGh.|//toS2sut1/vi) (;) 
+de(fg|peS) do(gh|peS)mo(hj|peShh) Dó(jjj|//ts-hh|/kv.|vi-hj|/jlk|//tohl)mi(k@lj|//toS2hl|/jh!iwj_i|//cl-hhlst2````qlhh!cl-hh)ni :(i.|vi-) (:) 
+De(g|ta|/jjj|//ts-hi|/kv.|vi-hi|/jlk|//tohl)us(k@lj|//toS2hl|jh|/cl-hh|!iwj_i|qlhh!cl-hh) (,) 
+Dó(g|ta|/jjj|//ts-hi|/k_j|/cl-hk)mi(jkj|//tohj|/ki|/clhj|/jh|/clhh|/gih|//to)nus,(hggfg.|//cl!pilst3``vi) (;) 
+et(fg|peS) il(gh|peS)lú(h|vi-hh|/kl|//peShl)xit(j_i|/cl-hh) no(jjj_h|///dshh/cl-hh)bis,(hv.|vi-|gjhj.|//trhh) (;) 
+al(f|ta)le(g|vi)lú(h|vi|/jjj|//ts>hi){ia},(jkJI|//toS2hksut1|/jv.|vi-hhlsx6|jjj_g|////dshh/cl-hh) (,) 
+al(hj|peShh)le(jjj|//ts-hi|//kj|/clhj|/kjj|//pohj)lú(hg~|cl~){ia}.(gjh|//toS2hh|/ihhg.|vi-pr-) (::)

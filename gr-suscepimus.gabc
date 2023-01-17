@@ -1,0 +1,33 @@
+name:Suscepimus Deus (Grad.);
+office-part:Graduale;
+mode:5;
+book:Graduale Romanum, 1961, p. 433 & The Liber Usualis, 1961, p. 1362;
+transcriber:Andrew Hinkley;
+ntranscriber:Marek Klein;
+nabc-lines:1;
+nabc-score:https://www.e-codices.unifr.ch/en/csg/0359/53;
+nabc-score2:https://www.e-codices.unifr.ch/en/csg/0359/41;
+%%
+(c4) SUs(d|talsc3)cé(f|vi|fg|pehg)pi(f|ta)mus(f.|ta) *(,) 
+De(ghg/hg|///to!cllsc2)us,(gv.|vi|/fgFD.|//toS2sut1) (,) 
+mi(d|ta)se(f|vi|fg|pehg)ri(f|ta)cór(fg~|pe~)di(f|ta)am(f|ta) tu(ff|/bv-|fvDC|//cilsc2|/df|pe|f|vi|/hghf|//pf1lsc2)am(f.|ta) (;) 
+in(hj~|pe~hg) mé(j|vihg)di(kvJH|//cihjlsc2)o(h|vi) tem(f|talsc6)pli(h|vi) tu(gv.|vi-|/fhf/gh|/trvihi)i :(g.|ta) (:) 
+se(h|vi)cún(hg~|cl~)dum(j|pehg) no(j|vihg)men(ij|pe>hg) tu(h|vi-|hg|///pf>)um,(h_g) De(fg!hvGFg|//vi-hhpp2su2/vi)us,(gf..|/cl-) (;) 
+i(f|vi|fg|pehg)ta(f|ta) et(f|ta) laus(ghg/hvGF|//trsut2lsm2) tu(fv.|vi|/ege|/to-1lsx3|/f_d|//cllst2)a(dc..|/cl-) (;) 
+in(fgf|//to) fi(f!gh|sa)nes(ixhjHG|//////toS2hhsut1lscm2|/hw!ivHG|ql-su2) 
+ter(f|vi)rae.(ff|/bv-|fvDC.|//visu1suv1lsx6) (,) (fg!hvGF.|//vihhpp2sut2|e!gh|sa|//fhg|//to-1|/h|vi|ggf.|pr) (z0::c3) 
+
+
+<sp>V/</sp>. 
+Sic(d|ta)ut(d|ta) au(fe~|cl~)dí(eh|pe)vi(h|vi)mus,(h_i_h_2//i_h|///toS`clhi|/jvHF.|//vihgsut2) (,) 
+(h_g|/cl|/ijh___|//toShh| jvIH|//ciShg|/jvIH|//ciShg|//hvGF.|//ciS) (:) 
+i(f!hi|sa)ta(ih|/cl|/jki|//to-1hj|/hhf.|//tg) (,) 
+et(f|ta) ví(hfh|//po)di(hhh|//ts)mus(h.f|/cl|!gwh!iv.|`qlvi-hi|/hi/jhh|/sfsthl|/iih.|pr) (:) 
+in(d|ta) ci(d|ta)vi(d|ta)tá(d|ta)te(d|ta) De(d)i(d) no(de)stri,(d.) (,) 
+in(d) mon(d)te(d) san(d|ta-|fED|/ci)cto(ef|peS) 
+e(f|ta|hGF|/ciS|/hhh|//tshh)jus.(hhf.[nv:\definecolor{gregoriocolor}{RGB}{180,57,179}]|pr) (,) 
+(gxg_f|/////cl-|/gvED.|//ciS|/fgED.|ta/ciS|/fe|/cl-|/hv.|vi-|hhhff|///dshhclorhh|//dfe|//to-1|/feed.[nv:\definecolor{gregoriocolor}{RGB}{229,53,44}]|/vi``pr) (z0::c4)
+
+
+Sus(d|talsc3)cé(f|vi|fg|pehg)pi(f|ta)mus.(f.|ta) (::)
+
