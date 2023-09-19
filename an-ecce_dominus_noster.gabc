@@ -1,0 +1,14 @@
+name:Ecce Dominus noster... ut illuminet;
+office-part:Antiphona;
+mode:3;
+book:The Liber Usualis, 1961, p. 333 & Liber antiphonarius, 1960, p. 225;
+transcriber:Andrew Hinkley;
+ntranscriber:Marek Klein;
+nabc-lines:1;
+nabc-source:https://www.e-codices.unifr.ch/en/csg/0390/24;
+%%
+(c4) EC(g|vi)ce(g|vi) Dó(hi|pe)mi(i|vi)nus(i|vi) no(i|vi)ster(i_|vi-hg) *(,) 
+cum(i|vi) vir(i|vi)tú(j|vihg)te(h|ta) vé(i|vi)ni(hg|/cllsc2)et,(g.|talsx6) (;) 
+ut(g|ta) il(h|vi)lú(j|vihg)mi(i|vi)net(g|ta) ó(h|vi)cu(g|vi)los(g_|ta) (,) 
+ser(g|ta)vó(g_h|peS)rum(f|ta) su(g|vi)ó(f|ta)rum,(f_d|/cl-) al(e_f<nlba>|peS)le(g|vi)lú(gg|/vi>){ia}.(e.</nlba>|ta) (::)
+
