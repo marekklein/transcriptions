@@ -1,0 +1,31 @@
+name:Sacerdotes tui;
+office-part:Introitus;
+mode:3;
+book:Graduale Romanum, 1961, p. [35] & The Liber Usualis, 1961, p. 1186;
+transcriber:Andrew Hinkley;
+ntranscriber:Marek Klein;
+nabc-source:https://www.e-codices.unifr.ch/en/sbe/0121/44;
+nabc-lines:1;
+%%
+(c4) SA(fff|//ts)cer(dfe|//to)dó(ef/ghf|///tohgpp2)tes(dfe|//to) tu(efg|sa)i,(g|vi) *(,) 
+Dó(gj|pehg|j|vihg)mi(hg|/cllsc2)ne,(gv.|vi|ff|/ds-|/ded.|//to) (;) 
+ín(g.h!iwj|``ql>hhppt2)du(hg|/cl)ant(gd~|cl~) 
+iu(fh|peS)stí(ghfg|ta/pohg)ti(gv.|vi-|df!gvFEf|///vi-hhpp2su2/vi)am,(fe..|/cl-) (;) 
+et(f|ta) san(e!fw!gh|``ql-ppt1`vi>hj)cti(g|ta) tu(hggef|//cl!pi/vi)i(fe__|/cl-) 
+ex(e!fw!gh|`qlppt1`vihk)súl(gh~|pe~)tent :(g.|ta) (:) 
+pro(gj|peShh)pter(j|vihh) Da(j.h|/cl-hg|!iwjij|qlhh!pohh)vid(ji__|/cl-hj) (,) 
+ser(ij/klk|to>hhpp2)vum(j_i~) tu(j.h|/cl-|!iw!jvIHGh|/qlhh!vshhsu2/vihh)um,(hg..|/cl-) (;) 
+non(gh|peSlsm2) a(g.h!iwj|``qlhhppt2)vér(jj|//dshh|jhhg~|/clhhlsm2st>hh)tas(g.|ta) fá(ghgh|ta/pohh)ci(fg_F_EDe|//toSsu2/vi)em(ed..|/cl-) (;) 
+Chri(de!f!gwh|``qlhhppt3)sti(gv.|`````vi-lst7|fhGFg|//pesu2/vi) tu(egff|//tosthh)i.(fe..|/cl-) (::Z) 
+%<i>T. P.</i> Al(e)le(f)lú(gh){ia},(g.) (;) al(gh)le(g.h!iwjjvIHG)lú(ge/fgF~E~){ia}.(e.) (::) 
+
+<i>Ps.</i> Me(g)mén(hj~)to(j) Dó(k)mi(j)ne(j) Da(ih)vid :(jjj) (:) 
+et(ig) o(hj~)mnis(j) man(j)su(j)e(j)tú(jji)di(hg)nis(h) e(i)ius.(gh..) (::) 
+
+Gló(g)ri(hj)a(j) Pa(j)tri,(j) et(j) Fí(j)li(j)o,(j.) (,) 
+et(j) Spi(j)rí(k)tu(j)i(j) San(ih~)cto.(jjj) (:) 
+Sic(ig)ut(hj) e(j)rat(j) in(j) prin(j)cí(j)pi(j)o,(j.) (,) 
+et(j) nunc,(k) et(j) sem(ih~)per,(jjj) (:) 
+et(ig) in(hj) saé(j)cu(j)la(j) sae(j)cu(jji)ló(hg)rum.(h) A(i)men.(gh..) (::)
+
+
