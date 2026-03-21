@@ -1,17 +1,25 @@
-%name:Saepe expugnaverunt;
-office-part:Tractus;
-mode:8;
-annotation:TR. VIII;
-book:Graduale Romanum, 1961, p. 153;
+name:Videns Dominus;
+office-part:Communio;
+mode:1;
+book:Graduale Romanum, 1961, p. 148;
 transcriber:Andrew Hinkley;
 ntranscriber:Marek Klein;
 nabc-lines:1;
-nabc-source:https://www.e-codices.unifr.ch/en/csg/0359/85;
+nabc-source:http://www.e-codices.unifr.ch/en/sbe/0121/161/;
 %%
-(c4) SAe(g|vi)pe(gv.|vi-|ff|/bv-|f_d/e_c|pflst2| cd!fvv|bv-hhppt2|//g.|vi-|/hjh|//to-1hg|hg.|/cl-) *(,) ex(gh|peS)pu(f|ta)gna(ixg|vi|!hwi|qlhj)vé(i|vi)runt(ii|//ds|ivH~G~|``cl>lscm1) me(g.|ta) (;) a(g|ta) iu(h_g|/cl-|/h!iwj|qlppt1)ven(ghf|//to)tú(f!hj|sa)te(j|vihg) me(jijHG.|//pohhsu1sut1|ixjjvHG|//////tgS3hi|hiGF.|//toS2sut1)(,)(iyh.|////ta-|/jh|/clhh|/ig|clhh)a.(g/hhg.|ta-pr) (::Z) 
+(c4) VI(f|vi)dens(f|vi) Dó(f|vi)mi(f|vi)nus(f.|vi) *(,) 
+flen(f|vi-)tes(e|vi) so(d|ta)ró(e|vi)res(f|vi) Lá(g|vi)za(g|vi)ri(g|vi) 
+ad(g|vi) mo(g|vi)nu(e|ta)mén(fv_ED|cl>lst2)tum,(d.|ta) (;) 
+la(f|vi)cri(f|vi)má(h|pe)tus(h|vi) est(h|vi) co(h|vi)ram(g|ta) Iu(g|vi)daé(g|vi)is,(d.|ta) (,) 
+et(g|vi) cla(f|ta)má(e.|ta)bat:(e.|ta) (;) 
+Lá(h|vi-)za(gf/gh|clvs)re,(g|ta) ve(h|vi)ni(j|pe) fo(h.|vi-)ras:(h.|vi-) (:) 
+et(f|ta) pród(ixg!hwi|///vi-qlhh)i(ih|ci-)it(g.|ta) (,) 
+li(g|ta)gá(g|vi)tis(f|ta) má(gh|peS)ni(f|vi)bus(d|ta) et(f|vi) pé(fg|peS)di(f|vi)bus,(c.|ta) (;) 
+qui(f|vi) fú(g|vi)e(fe|/cl)rat(f|vi) qua(f|vi)tri(e|vi)du(f|vi)á(gf|/cl-)nus(f.|vi) 
+mór(ded|//to)tu(c!ew!fvEDe|ta//ql-hhsu2//pr-lst2)us.(ed..) (::Z)
 
-<sp>V/</sp>. Di(d!ff|`tsM-helsx3|//ff|///ds-hj|fd|clS-lsc2|//fhfg____|/trS)cat(f|ta) nunc(fg!hvhg.|sccl-hh) (;) Is(gh|to>)ra(fg|peS)el:(gh/ji|sf|/jkhhg|//tohi!pihi|/hg|/cllsc2|/jjh|//tghh|/jg|/clhhlsc2|gf.|/cl-) (:) sae(fh|peS)pe(hg|/cl|hvGF|/ci-) ex(gh|pe)pu(gh~|pe~)gna(gh/jij|//pohhpp2)vé(j|vi)runt(h!iwj|qlppt1) me(jj|//ds-hh|jvIH|//ci-hh|ivHG|//ci-|hg..|/cl-) (;) a(g|ta) iu(h_g|/cl-|/h!iwj|qlppt1)ven(ghf|//pe>)tú(f!hj|sa)te(j|vi) me(jkj|//to-1hj|jg|/clhhlsc2)(,)(jv.|vi-hh|kli|//to-1hk|/jki|//to-1hj|/jhhg.|//clhg!pihg|ixhiGF.|//////toS2sut1)(,)(iyh.|////vi-|/jh/ig|//pf)a.(g|ta|/hhg.|/pr) (::Z) 
+1. De(f) pro(gh)fún(h)dis(h) cla(h)má(h)vi(h) ad(hj) te,(h) Dó(h)mi(hg)ne;(gh..) (:) Dó(gf)mi(gh)ne,(h) ex(h)áu(h)di(hjh) vo(g)cem(f) me(fff)am.(d.) <sp>A/</sp>.(::f+Z)
 
-<sp>V/</sp>. E(g|ta)te(hjhj|/trhh|jj|/bv-hh|kvJIG|//vihksut3|h_g|/cl-|/h|vi|!iw!jvIH|ql-hhsu2|ijh|//tohg)nim(hg..|toS3) (;) non(g|ta) po(ghg|//to)tu(fg|peS)é(jj|pqhg)runt(hji|//to>) mi(j|vi)hi:(jj|//dshh|<nlba>jkhhg</nlba>|//tohj!pihj|/hg|/cllsc2|/jjh|//tghh|/jg|/clS-lsc2|gf.|/cl-) (:) su(g|ta)pra(g|ta) dor(hi~|pe~)sum(gh/jij|//pohjpp2) me(j.h|/cl-hh|!iwj|qlhj)um(jj|//ds-hh|jvIH|//ci-hh|ivHG|//ci-|hg..|/cl-) (;) fa(g|ta)bri(g|ta)ca(g|ta)vé(h_g|/cl-|/h!iwj|qlppt1)runt(ghf|//to) pec(f!hj|sa)ca(j|vihg)tó(jijHG.|//pohhsu1sut1|ixjjvHG|//////tgS3hj|hiGF.|//toS2sut1)(,)(iyh.|////vi-|/jh/ig|//pfhg)res.(g|ta-|/hhg.|/pr) (::Z) 
+2. Fi(f)ant(gh) au(h)res(h) tu(h)ae(h) in(hj)ten(h)dén(hg)tes(gh..) (:) in(gf) vo(gh)cem(h) de(h)pre(h)ca(h)ti(hjh)ó(g)nis(f) me(fff)ae.(d.) <sp>A/</sp>.(::f+)
 
-<sp>V/</sp>. Pro(gd|/clM)lon(g|vi)ga(hih|//to)vé(j|vi-hh|jj|//bv-hi|kvJIG|//vihksut3|h_g|/cl-|/h|vi|!iw!jvIH|ql-hhsu2|ijh|//tohg)runt(hg..|toS3lst2) (;) i(g|vi)ni(ghg|//to)qui(fg|pe)tá(jj|/pqhh)tem(hji|//to>hg) si(j|vihg)bi:(jj|//dshh|jkhhg|//tohh!pihh|/hg|/cl|/jjh|//tghh|/jg|/clS-hglsc2|gf.|/cl-) (:) Dó(f|ta)mi(f|ta)nus(h|vi) ius(j|vihg)tus(igh|//po) (,) con(gfg|//po|/hjij|/trhglsc2)cí(j.h|/cl-hg|!iwj|qlhg)det(jj|//ds-hh|jvIH|//ci-hh|ivHG|//ci-|hg..|/cl-) (;) cer(g|ta)ví(h_g|/cl-|/h!iwj|qlppt1)ces(ghf|//to) pec(f!hj|sa)ca(j|vihg)tó(jijHG|///pohgsu1sut1|gg|//ds|/hggfg.|//cl!pi/vi)(,)(jjj|//tv-hh|kvJIH|//vihisuu1su2|hg|pi)rum.(ghGF.|pesu1sut1) (,) (h!iwjij|``ql!po-1ppt1|jh|/pihg|/ih|/clS-|hg.|/cl-) (::)
+
